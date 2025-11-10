@@ -15,7 +15,7 @@ A simple, interactive digit recognition program using K-Nearest Neighbors (KNN) 
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/ChimkinSoup/MNIST_KNN_ML.git
 cd KNN_Digit_OCR
 ```
 
@@ -28,5 +28,6 @@ pip install -r requirements.txt
 ```bash
 python Main.py
 ```
+
 
 Once running, draw a digit and press enter to see the model's prediction
